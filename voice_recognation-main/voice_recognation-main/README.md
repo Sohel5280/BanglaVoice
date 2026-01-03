@@ -2,7 +2,8 @@
 
 1. **Clone or navigate to the project directory:**
    ```bash
-   cd voice_recognation
+   cd voice_recognition
+
    ```
 
 2. **Create and activate a virtual environment:**
